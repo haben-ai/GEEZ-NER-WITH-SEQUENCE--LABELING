@@ -6,8 +6,10 @@ Repository Structure
 │   ├── weak_labels/
 │   └── processed/
 │
-├── models/
-│   └── checkpoints/
+├── geez_ner_models/
+│   └── config.json
+       |_____ tokenizer_config.json
+       |_____ tokenizer.json 
 │
 ├── src/
 │   ├── train.py
