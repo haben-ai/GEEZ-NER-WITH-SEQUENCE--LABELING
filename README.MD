@@ -3,7 +3,9 @@ Developed by: Haben Eyasu
 
 Final Project Coursework | Natural Language Processing (NLP)
 
-(https://github.com/haben-ai/GEEZ-NER-WITH-SEQUENCE--LABELING/blob/main/%E1%8A%A5%E1%88%9D%E1%8A%90%E1%88%99%E1%88%B4%20%E1%89%B0%E1%88%98%E1%8C%A0%E1%8B%89%20%E1%89%B3%E1%89%A6%E1%89%B0.png) 
+
+
+![THIS IS THE DATA](https://github.com/haben-ai/GEEZ-NER-WITH-SEQUENCE--LABELING/blob/main/nerbanner.png)
 
 This project focuses on Named Entity Recognition (NER) for Ge'ez, an ancient Semitic language. Due to the limited availability of labeled datasets for Ge'ez, this implementation utilizes Weak Supervision combined with the XLM-RoBERTa (XLM-R) transformer model to achieve robust results in a low-resource setting.
 
