@@ -27,7 +27,8 @@ For ease of use, the primary workflow is documented in a single, comprehensive n
 
 Root Directory
 .
-!(https://github.com/haben-ai/GEEZ-NER-WITH-SEQUENCE--LABELING/blob/main/Screenshot%202026-03-02%20172645.png)
+
+![THIS IS THE DATA](https://github.com/haben-ai/GEEZ-NER-WITH-SEQUENCE--LABELING/blob/main/Screenshot%202026-03-02%20172645.png)
 🛠️ Getting Started
 Install Dependencies:
 
