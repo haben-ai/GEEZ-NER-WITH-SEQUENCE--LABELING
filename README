@@ -1,0 +1,23 @@
+Low-Resource NER with Weak Supervision and XLM-R
+
+Repository Structure
+├── data/
+│   ├── raw/
+│   ├── weak_labels/
+│   └── processed/
+│
+├── models/
+│   └── checkpoints/
+│
+├── src/
+│   ├── train.py
+│   ├── evaluate.py
+│   ├── inference.py
+│   ├── weak_labeling.py
+│   └── utils.py
+│
+├── notebooks/
+│   └── experiments.ipynb
+│
+├── requirements.txt
+└── README.md
