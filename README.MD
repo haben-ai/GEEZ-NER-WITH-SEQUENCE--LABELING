@@ -1,5 +1,5 @@
-Geʽez Named Entity Recognition (NER)
-Developed by: Haben Eyasu
+<h2>Geʽez Named Entity Recognition (NER)</h2>
+<h5><B>Developed by: Haben Eyasu </b></h5>
 
 Final Project Coursework | Natural Language Processing (NLP)
 
