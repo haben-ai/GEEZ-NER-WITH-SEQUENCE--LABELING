@@ -52,4 +52,4 @@ Weak Supervision: Leveraging English entity markers to bootstrap labels for the 
 Fine-tuning: Adjusting the XLM-R base model to recognize Geez script patterns and semantic entities.
 
 Evaluation: Tested against a subset of manually verified Geez entities to ensure accuracy.
-Screenshot 2026-03-02 165905.png
+https://github.com/haben-ai/GEEZ-NER-WITH-SEQUENCE--LABELING/blob/main/Screenshot%202026-03-02%20165905.png
