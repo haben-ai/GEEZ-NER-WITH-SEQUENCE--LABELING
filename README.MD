@@ -27,21 +27,7 @@ For ease of use, the primary workflow is documented in a single, comprehensive n
 
 Root Directory
 .
-├── data/
-│   ├── raw/             # Original parallel sentences
-│   ├── weak_labels/     # Labels generated via weak supervision
-│   └── processed/       # Final tensors/datasets for training
-├── geez_ner_models/     # Saved model weights and configurations
-│   ├── config.json
-│   ├── tokenizer_config.json
-│   └── tokenizer.json 
-├── src/                 # Modular Python scripts
-│   ├── train.py
-│   └── evaluate.py
-├── notebooks/
-│   └── ALL-IN-ONE.ipynb # Main entry point: Preprocessing, Training, & Eval
-├── requirements.txt     # Environment dependencies
-└── README.md
+!(https://github.com/haben-ai/GEEZ-NER-WITH-SEQUENCE--LABELING/blob/main/Screenshot%202026-03-02%20172645.png)
 🛠️ Getting Started
 Install Dependencies:
 
