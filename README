@@ -1,4 +1,19 @@
-Low-Resource NER with Weak Supervision and XLM-R
+##Geʽez Named Entity Recognition (NER)
+
+##Project Done by: Haben Eyasu
+
+This project is done as part of my final project coursework for my NLP course. It focuses on 
+Low-Resource language GEEZ (Ancient language from the earliest civilization)NER with Weak Supervision and XLM-R.
+
+The data used follows key value format where the key is english sentence and the value is a parallel geez translation.
+ " {
+    "gez": "ሔዋን ወቃየን ሖሩ እንተ ባቢሎን እምቅድመ ይፃኡ እምሰማርያ።",
+     "eng": "Eve and Cain walked through Babylon before they came up from Samaria."
+  }
+"
+
+## The project is structured as follows: For simplicity i have compiled all the code in one notebook (ALL-IN-ONE.ipynb) which includes data preprocessing, model training and evaluation.
+and tried some test cases.
 
 Repository Structure
 ├── data/
@@ -14,12 +29,10 @@ Repository Structure
 ├── src/
 │   ├── train.py
 │   ├── evaluate.py
-│   ├── inference.py
-│   ├── weak_labeling.py
-│   └── utils.py
+│   
 │
 ├── notebooks/
-│   └── experiments.ipynb
+│   └── ALL-IN-ONE.ipynb
 │
 ├── requirements.txt
 └── README.md
