@@ -61,6 +61,7 @@ This project focuses on Named Entity Recognition (NER) for Ge'ez, an ancient Sem
   "gez": "ሔዋን ወቃየን ሖሩ እንተ ባቢሎን እምቅድመ ይፃኡ እምሰማርያ።",
   "eng": "Eve and Cain walked through Babylon before they came up from Samaria."
 }
+```
 <h2>🛠️ Getting Started</h2>
 
 <b>1. Install Dependencies</b>
