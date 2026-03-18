@@ -17,6 +17,7 @@ Approach: Weak Supervision + XLM-R Fine-tuning.
 Data Format: The model processes parallel JSON pairs where English sentences serve as the source for entity alignment.
 
 Data Example
+```
 JSON
 {
   "gez": "ሔዋን ወቃየን ሖሩ እንተ ባቢሎን እምቅድመ ይፃኡ እምሰማርያ።",
@@ -29,9 +30,9 @@ Root Directory
 .
 
 ![THIS IS THE DATA](https://github.com/haben-ai/GEEZ-NER-WITH-SEQUENCE--LABELING/blob/main/Screenshot%202026-03-02%20172645.png)
-🛠️ Getting Started
+<h2>🛠️ Getting Started</h2>
 Install Dependencies:
-
+```
 Bash
 pip install -r requirements.txt
 Run the Pipeline:
