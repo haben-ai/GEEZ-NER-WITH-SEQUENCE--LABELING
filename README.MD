@@ -95,6 +95,7 @@ Evaluation:
 Validate performance using manually verified Geʽez entities
 
 <h2>📸 Results Snapshot</h2>
+
 ![THIS IS THE DATA](https://github.com/haben-ai/GEEZ-NER-WITH-SEQUENCE--LABELING/blob/main/Screenshot%202026-03-02%20165905.png)
 <h2>💡 Why This Matters</h2>
 
